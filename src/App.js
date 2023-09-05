@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { cssBaseline, Grid } from '@material-ui/core';
+import {  Grid } from '@material-ui/core';
 
 import getPlacesData from './api';
 
